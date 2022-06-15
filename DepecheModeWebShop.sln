@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamillasProjektarbete", "CamillasProjektarbete\CamillasProjektarbete.csproj", "{8034D540-0A32-43E7-8BC0-B0E59DEC004E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepecheModeWebShop", "CamillasProjektarbete\DepecheModeWebShop.csproj", "{8034D540-0A32-43E7-8BC0-B0E59DEC004E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffOnly", "StaffOnly\StaffOnly.csproj", "{21CA2DC3-49E2-40DB-890A-EDA67C7DBC0F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamillasProjektarbeteTests", "CamillasProjektarbeteTests\CamillasProjektarbeteTests.csproj", "{1AD879BE-5BFB-4F1D-AF7F-CF6BDE5DDDDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepecheModeWebShopTests", "CamillasProjektarbeteTests\DepecheModeWebShopTests.csproj", "{1AD879BE-5BFB-4F1D-AF7F-CF6BDE5DDDDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{8034D540-0A32-43E7-8BC0-B0E59DEC004E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8034D540-0A32-43E7-8BC0-B0E59DEC004E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8034D540-0A32-43E7-8BC0-B0E59DEC004E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21CA2DC3-49E2-40DB-890A-EDA67C7DBC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21CA2DC3-49E2-40DB-890A-EDA67C7DBC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21CA2DC3-49E2-40DB-890A-EDA67C7DBC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21CA2DC3-49E2-40DB-890A-EDA67C7DBC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1AD879BE-5BFB-4F1D-AF7F-CF6BDE5DDDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1AD879BE-5BFB-4F1D-AF7F-CF6BDE5DDDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD879BE-5BFB-4F1D-AF7F-CF6BDE5DDDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
